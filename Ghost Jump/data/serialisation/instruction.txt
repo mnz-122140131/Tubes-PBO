@@ -1,0 +1,11 @@
+Selamat datang di Ghost Jump
+Cara bermain:
+1. Gunakan mouse untuk mengarahkan senjata.
+2. Klik kiri atau kanan pada mouse untuk memberikan pantulan.
+3. Kumpulkan amunisi yang tersebar di sekitar untuk mendapatkan poin.
+4. Bayi menambahkan 3 amunisi dan api menambah 1 amunisi. 
+5. Hindari kontak dengan musuh berupa tulang ikan dan paku.
+6. Tekan spasi untuk pause atau melanjutkan game.
+7. Bertahanlah sebanyak mungkin dan raih skor tertinggi!
+
+Tekan tombol Help lagi untuk menyembunyikan instruksi.
